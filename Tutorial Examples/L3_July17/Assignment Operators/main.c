@@ -1,3 +1,4 @@
+/* REF: https://www.w3schools.com/c/c_operators.php */
 #include <stdio.h>
 #include <stdlib.h>
 
