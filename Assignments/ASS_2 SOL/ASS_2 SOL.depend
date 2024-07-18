@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584209020 source:f:\_courses\huawei_microcontroller\assignments\ass_2 sol\main.c
+	<stdio.h>
+	<stdlib.h>
+
