@@ -4,7 +4,6 @@
   <a href="https://www.facebook.com/profile.php?id=100091786663720"><img src="https://raw.githubusercontent.com/ah2devio/Huawei_MicroController/main/banner.png" alt="Huawei Academy ERU" width="200"></a>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
