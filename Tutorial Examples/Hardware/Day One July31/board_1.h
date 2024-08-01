@@ -1,0 +1,25 @@
+#ifndef BOARD_1_H
+#define BOARD_1_H
+
+#define LED_ARRAY PORTD
+#define BUZZER PORTC.F4
+#define RELAY_ONE PORTC.F0
+#define RELAY_TWO PORTC.F1
+
+#define LED_ARRAY_DIR TRISD
+#define BUZZER_DIR TRISC.F4
+#define RELAY_ONE_DIR TRISC.F0
+#define RELAY_TWO_DIR TRISC.F1
+
+#define PORT_OUTPUT 0
+#define PORT_INPUT 255
+
+#define PIN_OUTPUT 0
+#define PIN_INPUT 1
+
+
+
+
+
+
+#endif
