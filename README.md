@@ -23,9 +23,12 @@
 ---
 ## Reference
 >  <a href=""><img src="https://img.shields.io/badge/C%20Reference%20-8A2BE2"></a>
--  C language Ref 1 [cppref.com](https://en.cppreference.com/w/c/language) 
--  C language Ref 2 [Microsoft](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
--  C language [CheatSheet](https://quickref.me/c.html)
+-  C language Ref 1 - [cppref.com](https://en.cppreference.com/w/c/language) 
+-  C language Ref 2 - [Microsoft](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
+-  C language - [CheatSheet](https://quickref.me/c.html)
+
+>  <a href=""><img src="https://img.shields.io/badge/Docs%20%20-8A2BE2"></a>
+- Tips ‘N Tricks - [Guide](https://ww1.microchip.com/downloads/en/devicedoc/01146b.pdf)
   
 ---
 
