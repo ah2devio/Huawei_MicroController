@@ -31,7 +31,9 @@
 - Tips ‘N Tricks - [Guide](https://ww1.microchip.com/downloads/en/devicedoc/01146b.pdf)
   
 ---
+## Visual Resources
 
+---
 ## Credits
 
 Thanks to:
